@@ -52,7 +52,7 @@ ConfigArgParse==0.15.1
 cookies==2.2.1
 coverage==4.5.4
 coveralls==1.7.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 cymem==2.0.3
 cyrtranslit==0.4
