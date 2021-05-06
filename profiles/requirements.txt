@@ -80,7 +80,7 @@ fbmessenger==6.0.0
 fire==0.2.1
 flake8==3.7.8
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 freezegun==0.3.12
 future==0.16.0
 gast==0.2.2
