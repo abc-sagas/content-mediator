@@ -205,7 +205,7 @@ py==1.8.0
 pyaml==19.4.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
-pycares==3.0.0
+pycares==4.2.0
 pycld2==0.41
 pycodestyle==2.5.0
 pycparser==2.19
